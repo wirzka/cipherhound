@@ -1,11 +1,11 @@
 ![Cipherhound](/img/cipherhound.png)
 
 # Cipherhound
-Cipherhound is a tool to automate and speed up the information gathering process to retrieve SSL/TLS certificates' details in order to compare them with the latest [AgID's guideline](https://www.agid.gov.it/it/sicurezza/tls-e-cipher-suite). For those who are not familiar with AgID, as it is stated on its website, it is the technical agency for the Presidency of the Council of Ministers (Italy).
+Cipherhound is a tool to automate and speed up the information gathering of SSL/TLS certificates’ details to compare them with the latest [AgID guidelines](https://www.agid.gov.it/it/sicurezza/tls-e-cipher-suite). For those who are not familiar with AgID, as you can find on its website, it is the technical agency for the Presidency of the Council of Ministers (Italy).
 
-I know that there is a plethora of well written and stable applications that could do it, but I like to struggle a bit and I decided to create mine.
+I know there is a plethora of well-written and stable applications that could do it, but I like to struggle a bit and I created mine.
 
-That's why Cipherhound's been born.
+That’s why Cipherhound’s been born.
 ## TOC
 - [Prerequisites & dependecies](#prerequisites--dependecies)
 - [Installation](#installation)
@@ -202,11 +202,3 @@ I am not responsible for any damages (tangible or intangible) you could make bec
 You should have the permissions to use it in any kind of environment.
 
 Stay safe.
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
