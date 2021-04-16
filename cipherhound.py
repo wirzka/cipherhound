@@ -8,10 +8,10 @@ Usage:
 Options:
 
     User input:
-    -n --nmap          Use authenticated mode, MUST provide API key
-    -x --xmlonly       Use non authenticated mode, do not provide API key
+    -n --nmap          Do the whole process: nmap + xml parsing + xlsx report
+    -x --xmlonly       Do only: xml parsing + xlsx report
     -g --grabdomain    Insert the file name or absolute path
-    -p --parsedomain   Insert the domain to filter e.g. adobe.com
+    -p --parsedomain   Insert the file name or absolute path
     
 Misc:
     -h --help          Show this screen
