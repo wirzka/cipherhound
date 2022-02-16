@@ -1,5 +1,8 @@
 ![Cipherhound](/img/cipherhound.png)
 
+## Update 16/02/22
+***N.B. I'm currently working on a new version of this tool to overcome some challenges and issues, the new version is going to have a few more feautures as well.***
+
 # Cipherhound
 Cipherhound is a tool to automate and speed up the information gathering of SSL/TLS certificates’ details to compare them with the latest [AgID guidelines](https://www.agid.gov.it/it/sicurezza/tls-e-cipher-suite). For those who are not familiar with AgID, as you can find on its website, it is the technical agency for the Presidency of the Council of Ministers (Italy).
 
